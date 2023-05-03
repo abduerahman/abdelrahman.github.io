@@ -9,7 +9,7 @@
       then we got O(N) if the input is gretter than 2 but if not then it will only that constant time O(1)
     </span>
   </li>
-  </li>
+  <li>
   <p>Solution 2</p>
   <span>
     it is a little bit easy, but first I'm going to assume we have n the size of the input, and then we will do recursion to solve them, and each recursion it does two recursive calls n-1, n-2, how many numbers of operation will happen let's see, in the first one we will not do any recursion so to number of operation will 0 but the second when I become 1 then we will 2 and when it's 2 we will do 4 so on.
