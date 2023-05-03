@@ -37,4 +37,4 @@ Actually, the last solution takes linear time, but it takes more time to write i
     
   </ul>
   <p>How to run the file, from cmd enter gcc fileName.c and then on window run the exe file from your cmd by type out.exe 
-          or /outfile in mac</p>
+          or ./outfile in mac</p>
