@@ -27,4 +27,11 @@ but it also has the advantage that we don't require memory here and this is the 
     This one is a little like all the others, it takes O(n) and this is so obvious, here we are no longer controlled by the stack size, but we used much more memory which is a tradeoff, some solution is determined to be better than other, only by the specific problem we are facing.
   <span>
     </li>
+        <li>
+      <p>Solution 4</p>
+  <span>
+Actually, the last solution takes linear time, but it takes more time to write it, and also it takes more memory but we a not limited to the stack size, which is why I did not like it so much, and here's my claim my favorite part, is why it takes linear, the recursive calls only work if the number, did not find before or the value assigned to it in the array is null or -1, but if not, we will only do some constant work. that it! 
+  <span>
+    </li>
+    
   </ul>
