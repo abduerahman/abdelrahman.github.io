@@ -22,4 +22,9 @@ to Sumption from i= 0 to n 2^i + c when can be rewritten as 2^n +c.
 but it also has the advantage that we don't require memory here and this is the only advantage of it!
   <span>
     </li>
+      <p>Solution 3</p>
+  <span>
+    This one is a little like all the others, it takes O(n) and this is so obvious, here we are no longer controlled by the stack size, but we used much more memory which is a tradeoff, some solution is determined to be better than other, only by the specific problem we are facing.
+  <span>
+    </li>
   </ul>
